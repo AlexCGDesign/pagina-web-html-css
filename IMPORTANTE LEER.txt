@@ -1,0 +1,5 @@
+La mayoría de ilustraciones utilizadas, pesaban más de 6mbs de tamaño, 
+esto no es recomendable porque consumimos muchos recursos, por ende decidi
+comprimir las ilustraciones y pasarlas a un formato SVG. 
+
+Si quieres modificar las ilustraciones SVG también se quedarán en los archivos.
